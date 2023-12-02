@@ -17,17 +17,17 @@ The `countStrings` method takes a 2D array of strings and a string as parameters
    cd LinearSearch
 
    
-compile the program
+##compile the program
 javac LinearSearch.java
 
 
-run the program
+##run the program
 java LinearSearch
 
-Example
-sample input 1 
+##Example
+##sample input 1 
 Enter the string to search for: Duck
 
-sample output 2 
+##sample output 2 
 Duck is contained 4 times in the array
 
